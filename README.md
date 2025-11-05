@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Bashar+Ayman;Frontend+Developer+(React+%2F+Next.js)" alt="Typing Animation" />
-</h1>
+<h1 align="center" style="color:white;">Bashar Ayman</h1>
+<h3 align="center" style="color:gray;">Frontend Developer (React / Next.js)</h3>
+
+---
 
 <p align="center">
   <a href="mailto:basharelhusseiny@gmail.com">
@@ -13,29 +14,29 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,git,github,figma,vercel" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basharelhusseiny&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basharelhusseiny&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="150"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basharelhusseiny&label=Profile+Views&color=000000&style=for-the-badge" alt="basharelhusseiny" />
+  <a href="https://github.com/basharelhusseiny/basharelhusseiny/raw/main/BasharElHusseiny-Frontend-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Download%20CV-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+### 🛠️ Top Technical Skills & Tools
 <p align="center">
-  <i>“Building smooth, fast, and modern web experiences.”</i>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,zustand,git,github,figma" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharelhusseiny&layout=compact&theme=transparent&title_color=ffffff&text_color=cccccc&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center" style="color:white;">
+  <i>“Crafting clean, fast, and user-focused web experiences.”</i>
 </p>
