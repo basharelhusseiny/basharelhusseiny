@@ -2,7 +2,7 @@
 <h1 align="center" style="color:white;">Bashar Ayman ElHusseiny</h1>
 <h3 align="center" style="color:gray;">Frontend Developer (React / Next.js)</h3>
 <p align="center" style="color:#ccc; max-width:600px; margin:auto;">
-  Building high-performance SPAs and responsive interfaces. Passionate about optimizing UX, SEO, and performance, with a proven track record in freelance projects for international clients.
+ Frontend Developer specializing in React.js & Next.js, with experience building high-performance SPAs and responsive interfaces. Passionate about optimizing UX, SEO, and performance. Proven track record in freelance projects for international clients, while actively learning backend development with Node.js.
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=basharelhusseiny&label=Profile+Views&color=000000&style=for-the-badge" alt="basharelhusseiny" />
-  <a href="https://drive.google.com/file/d/1n6z1_iXPmPvC1GfBovWM54tRi3WLM6vG/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1EfM4dG_zThQukzeGOAinoH04tObnDNap/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-View%20CV-000?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ### 🛠️ Top Technical Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,git,figma,nodejs,express,mongodb,mysql,sequelize,prisma" />
 </p>
 
 ---
