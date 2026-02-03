@@ -29,7 +29,7 @@
 
 ### 🛠️ Top Technical Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,git,figma,nodejs,express,mongodb,mysql,sequelize,prisma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,zustand,reactquery,git,figma,nodejs,express,mongodb,mysql,sequelize,prisma" />
 </p>
 
 ---
